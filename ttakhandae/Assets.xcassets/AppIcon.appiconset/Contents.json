@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "smoke_icon_big.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
